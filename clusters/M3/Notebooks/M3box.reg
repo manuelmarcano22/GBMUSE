@@ -1,0 +1,19 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(13:42:09.7710,+28:22:47.618,0.100") # color=red text={CX1}
+circle(13:42:15.3640,+28:22:41.458,0.100") # color=red text={CX2}
+circle(13:42:08.2180,+28:23:28.528,0.100") # color=red text={CX3}
+circle(13:42:10.1050,+28:24:03.498,0.100") # color=red text={CX4}
+circle(13:42:14.5110,+28:23:31.053,0.100") # color=red text={CX5}
+circle(13:42:13.8990,+28:23:04.927,0.100") # color=red text={CX6}
+circle(13:42:13.4110,+28:24:41.737,0.100") # color=red text={CX7}
+circle(13:42:14.6640,+28:23:44.921,0.100") # color=red text={CX8}
+circle(13:42:11.7300,+28:22:34.608,0.100") # color=red text={CX9}
+circle(13:42:15.3220,+28:21:59.867,0.100") # color=red text={CX10}
+circle(13:42:14.0230,+28:21:24.128,0.100") # color=red text={CX11}
+circle(13:42:13.9010,+28:23:08.819,0.100") # color=red text={CX12}
+circle(13:42:13.6780,+28:22:44.243,0.100") # color=red text={CX13}
+circle(13:42:13.9030,+28:22:20.201,0.100") # color=red text={CX14}
+circle(13:42:05.3890,+28:23:06.513,0.100") # color=red text={CX15}
+box(13:42:11.6200,+28:22:38.200,60.000",60.000",0.0071390471) # text={1'}

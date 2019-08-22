@@ -1,0 +1,21 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(18:35:43.6710,-32:59:26.310,0.500") # color=red text={A}
+circle(18:35:44.5640,-32:59:38.490,0.500") # color=red text={B}
+# ruler(18:35:44.7772,-32:59:37.403,18:35:44.0347,-32:59:24.949) ruler=fk5 arcsec
+box(18:35:45.6892,-32:59:26.492,60.000",60.000",359.99257) # text={1"}
+box(18:35:43.6410,-32:59:25.657,7.420",7.420",359.99257) # text={Narrow Field MOde}
+circle(18:35:45.7520,-32:59:23.240,0.500") # text={C}
+circle(18:35:45.6510,-32:59:26.170,0.500") # text={D}
+circle(18:35:46.2400,-32:59:29.360,0.500") # text={E}
+circle(18:35:47.7430,-32:59:19.760,0.500") # text={F}
+circle(18:35:45.4730,-32:59:25.480,0.500") # text={H}
+circle(18:35:45.8180,-32:59:35.820,0.500") # text={I}
+circle(18:35:45.1780,-32:59:34.540,0.500") # text={J}
+circle(18:35:44.0780,-32:59:00.540,0.500") # text={K}
+circle(18:35:43.8910,-33:00:45.630,0.500") # text={L}
+circle(18:35:44.8560,-32:59:25.080,0.500") # text={Pulsar }
+circle(18:35:45.7500,-32:59:23.500,0.500") # color=blue text={V12 (CV)}
+circle(18:35:43.6180,-32:59:26.219,0.300") # text={0.3"}
+circle(18:35:44.4944,-32:59:38.428,0.300") # text={0.3"}

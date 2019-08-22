@@ -1,0 +1,15 @@
+fk5; circle(13:42:09.771,+28:22:47.618,0.1") # color=red text={CX1} 
+fk5; circle(13:42:15.364,+28:22:41.458,0.1") # color=red text={CX2} 
+fk5; circle(13:42:08.218,+28:23:28.528,0.1") # color=red text={CX3} 
+fk5; circle(13:42:10.105,+28:24:03.498,0.1") # color=red text={CX4} 
+fk5; circle(13:42:14.511,+28:23:31.053,0.1") # color=red text={CX5} 
+fk5; circle(13:42:13.899,+28:23:04.927,0.1") # color=red text={CX6} 
+fk5; circle(13:42:13.411,+28:24:41.737,0.1") # color=red text={CX7} 
+fk5; circle(13:42:14.664,+28:23:44.921,0.1") # color=red text={CX8} 
+fk5; circle(13:42:11.730,+28:22:34.608,0.1") # color=red text={CX9} 
+fk5; circle(13:42:15.322,+28:21:59.867,0.1") # color=red text={CX10} 
+fk5; circle(13:42:14.023,+28:21:24.128,0.1") # color=red text={CX11} 
+fk5; circle(13:42:13.901,+28:23:08.819,0.1") # color=red text={CX12} 
+fk5; circle(13:42:13.678,+28:22:44.243,0.1") # color=red text={CX13} 
+fk5; circle(13:42:13.903,+28:22:20.201,0.1") # color=red text={CX14} 
+fk5; circle(13:42:05.389,+28:23:06.513,0.1") # color=red text={CX15} 
